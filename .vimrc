@@ -15,3 +15,6 @@ set shiftwidth=4
 set expandtab
 set softtabstop=4
 set showmatch
+
+set background=dark
+set t_Co=256
